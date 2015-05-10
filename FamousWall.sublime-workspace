@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rece",
+				"recent"
+			],
+			[
+				"back",
+				"backFace"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"show",
+				"showme"
+			],
+			[
+				"rot",
+				"rotateY"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"get",
+				"getTransform"
+			],
+			[
+				"fu",
+				"fullMod"
+			],
+			[
+				"id",
+				"identity"
+			],
+			[
+				"mu",
+				"multiply"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"recent",
+				"recentMod"
+			],
+			[
+				"add",
+				"addData"
+			],
+			[
+				"create",
+				"createScrollView"
+			],
+			[
+				"c",
+				"core"
+			],
+			[
+				"update",
+				"updateImage"
+			],
+			[
+				"upda",
+				"updateCanvasW"
+			],
+			[
+				"up",
+				"updateCanvasSize"
+			],
+			[
+				"smi",
+				"smiley"
+			],
+			[
+				"draw",
+				"draw"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"sta",
+				"startY"
+			],
+			[
+				"star",
+				"startX"
+			],
+			[
+				"clien",
+				"clientX"
+			],
+			[
+				"pro",
+				"projMatrix"
+			],
+			[
+				"pa",
+				"particle"
+			],
+			[
+				"dum",
+				"dummyThumbs"
+			],
+			[
+				"lg",
+				"lightOptions2"
+			],
+			[
+				"set",
+				"setTransform"
+			],
+			[
+				"im",
+				"imgDetailBox"
+			],
+			[
+				"se",
+				"sequenceFrom"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"du",
+				"dummyThumbs"
+			],
+			[
+				"detail",
+				"detailCommentBox"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 11432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/karoshi/git/examples/src/examples/inputs/PinchSync/example.js",
+			"settings":
+			{
+				"buffer_size": 3793,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/karoshi/git/examples/index.html",
+			"settings":
+			{
+				"buffer_size": 1299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/Scrollview.js",
+			"settings":
+			{
+				"buffer_size": 19258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1669,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/karoshi/git/styletrend-famous",
+		"/home/karoshi/git/styletrend-famous/css",
+		"/home/karoshi/git/styletrend-famous/js"
+	],
+	"file_history":
+	[
+		"/home/karoshi/git/styletrend-famous/js/Flipper.js",
+		"/home/karoshi/git/styletrend-famous/index.html",
+		"/home/karoshi/git/styletrend-famous/js/main.js",
+		"/home/karoshi/git/famous/core/Surface.js",
+		"/home/karoshi/git/examples/src/examples/views/Lightbox/example.js",
+		"/home/karoshi/git/styletrend-famous/main.js",
+		"/home/karoshi/git/styletrend-famous/app.css",
+		"/home/karoshi/git/famous/core/Transform.js",
+		"/home/karoshi/git/famous/core/View.js",
+		"/home/karoshi/git/FamousWall/Scrollview.js",
+		"/home/karoshi/git/examples/src/examples/inputs/PinchSync/example.js",
+		"/home/karoshi/git/FamousWall/FlipCard.js",
+		"/home/karoshi/git/famous/views/Scroller.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/css/app.css",
+		"/home/karoshi/git/famous/inputs/PinchSync.js",
+		"/home/karoshi/git/FamousWall/index.html",
+		"/home/karoshi/git/FamousWall/jquery-2.1.1.js",
+		"/home/karoshi/git/FamousWall/jquery-1.11.1.js",
+		"/home/karoshi/git/famous/inputs/ScaleSync.js",
+		"/home/karoshi/Downloads/periodic.js",
+		"/home/karoshi/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/karoshi/git/famous/core/Modifier.js",
+		"/home/karoshi/git/famous/core/RenderNode.js",
+		"/home/karoshi/git/famous/core/Entity.js",
+		"/home/karoshi/git/gl-frontend-uma/index.html",
+		"/home/karoshi/git/FamousWall/main.js",
+		"/home/karoshi/Downloads/vg_wrapper/web/vg-webgl_test.js",
+		"/home/karoshi/Downloads/vg_wrapper/web/vg-webgl.js",
+		"/home/karoshi/Downloads/vg_wrapper/web/lib/cuon-utils.js",
+		"/home/karoshi/Downloads/vg_wrapper/web/vg_webgl_test.html",
+		"/home/karoshi/git/famous/utilities/Utility.js",
+		"/home/karoshi/git/flex/js/main.js",
+		"/home/karoshi/git/gl-frontend/index.html",
+		"/home/karoshi/git/famous/views/Scrollview.js",
+		"/home/karoshi/Web/ScrollView-Shapes/js/Timeline.js",
+		"/home/karoshi/Web/Scrollview-shape/js/Timeline.js",
+		"/home/karoshi/git/scrollviewapp/js/Timeline.js",
+		"/home/karoshi/git/kEditor/editor/index.html",
+		"/home/karoshi/git/kEditor/editor/text-editor/Text-Editor.js",
+		"/home/karoshi/git/kEditor/editor/text-editor/text-editor-debug.js",
+		"/home/karoshi/git/kEditor/editor/js/Menubar.Add.js",
+		"/home/karoshi/git/kEditor/editor/js/Sidebar.Material.js",
+		"/home/karoshi/git/kEditor/editor/js/Viewport.js",
+		"/home/karoshi/git/kEditor/editor/js/3D-Editor.js",
+		"/home/karoshi/git/kEditor/editor/js/Editor.js",
+		"/home/karoshi/git/kEditor/editor/css/dark.css",
+		"/home/karoshi/git/kEditor/editor/css/light.css",
+		"/home/karoshi/git/kEditor/editor/css/types.css",
+		"/home/karoshi/git/three.js/editor/index.html",
+		"/home/karoshi/git/carota/index.html",
+		"/home/karoshi/git/carota/src/main.js",
+		"/home/karoshi/git/carota/src/carota-debug.js",
+		"/home/karoshi/git/carota/main.js",
+		"/home/karoshi/git/carota/src/carota.js",
+		"/home/karoshi/git/carota/src/characters.js",
+		"/home/karoshi/git/carota/src/codes.js",
+		"/home/karoshi/git/carota/src/doc.js",
+		"/home/karoshi/git/carota/src/dom.js",
+		"/home/karoshi/git/carota/src/editor.js",
+		"/home/karoshi/git/carota/src/frame.js",
+		"/home/karoshi/git/carota/src/html.js",
+		"/home/karoshi/git/carota/src/line.js",
+		"/home/karoshi/git/carota/src/node.js",
+		"/home/karoshi/git/carota/src/part.js",
+		"/home/karoshi/git/carota/src/rect.js",
+		"/home/karoshi/git/carota/src/runs.js",
+		"/home/karoshi/git/carota/src/split.js",
+		"/home/karoshi/git/carota/src/tests.js",
+		"/home/karoshi/git/carota/src/text.js",
+		"/home/karoshi/git/carota/src/util.js",
+		"/home/karoshi/git/carota/src/word.js",
+		"/home/karoshi/git/carota/src/wrap.js",
+		"/home/karoshi/git/carota/src/positionedword.js",
+		"/home/karoshi/git/carota/src/range.js",
+		"/home/karoshi/git/gl-frontend/frontend/main.js",
+		"/home/karoshi/git/kfamous/examples/src/examples/physics/Constraints.js",
+		"/home/karoshi/git/kfamous/kfamous/physics/PhysicsEngine.js",
+		"/home/karoshi/git/kfamous/kfamous/physics/bodies/Particle.js",
+		"/home/karoshi/git/kfamous/kfamous/physics/constraints/Walls.js",
+		"/home/karoshi/git/kfamous/kfamous/physics/constraints/Wall.js",
+		"/home/karoshi/git/kfamous/kfamous/modifiers/StateModifier.js",
+		"/home/karoshi/git/kfamous/kfamous/core/Transform.js",
+		"/home/karoshi/git/kfamous/examples/src/examples/views/Scrollview/example.js",
+		"/home/karoshi/git/kfamous/examples/src/main.js",
+		"/home/karoshi/git/kfamous/examples/src/examples/core/Context/example.js",
+		"/home/karoshi/git/kfamous/examples/src/examples/core/View/example.js",
+		"/home/karoshi/git/kfamous/kfamous/views/Scrollview.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/js/DetailView.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/js/AppView.js",
+		"/home/karoshi/git/kfamous/examples/src/examples/views/Lightbox/example.js",
+		"/home/karoshi/git/gl-frontend/frontend/vendor/kfamous/ResizableImage.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/config/Detail.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/config/Content.js",
+		"/home/karoshi/git/kfamous/kfamous/surfaces/ImageSurface.js",
+		"/home/karoshi/git/kfamous/kfamous/surfaces/InputSurface.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/js/Isotope.js",
+		"/home/karoshi/git/kfamous/kfamous/views/Lightbox.js",
+		"/home/karoshi/Downloads/famous-listview/examples/demo/main.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/config/Circle.js",
+		"/home/karoshi/git/gl-frontend/frontend/vendor/kfamous/Scroller.js",
+		"/home/karoshi/git/gl-frontend/frontend/vendor/kfamous/ListView.js",
+		"/home/karoshi/git/gl-frontend/frontend/vendor/kfamous/ScrollView.js",
+		"/home/karoshi/Downloads/famous-listview/examples/demo/index.html",
+		"/home/karoshi/Downloads/famous-resizableImage/ResizableImage.js",
+		"/home/karoshi/Web/ScrollviewAppLocal/js/Timeline.js",
+		"/home/karoshi/git/gl-frontend/frontend/views/js/TakePictureView.js",
+		"/home/karoshi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/karoshi/git/famous-react/samples/sandbox/src/index.html",
+		"/home/karoshi/Web/ScrollviewAppLocal/js/main.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n                ",
+			"'],\n",
+			"SIZE",
+			"me",
+			"call",
+			"SEPERATION_LENGTH",
+			"()\n",
+			"('",
+			"            \n",
+			"createScrollView",
+			"idx",
+			"_node",
+			"166",
+			"tranMod",
+			" \n",
+			"= ",
+			"Math",
+			"_outputFunction",
+			"outputFrom",
+			"click",
+			"'click'",
+			"cam",
+			"Transform",
+			"_transformDirty",
+			"_currentTarget",
+			"click",
+			"getWebGLContext",
+			"vgDrawRect",
+			"draw",
+			"fillText",
+			"word.js",
+			"word.draw",
+			"draw",
+			"fillText",
+			"size",
+			"run",
+			"this.run",
+			"fillText",
+			"applyRunStyle",
+			"fillTex",
+			"draw",
+			"measureText",
+			"defaultFormatting",
+			"fillTex",
+			"create",
+			"color",
+			"background",
+			"sans",
+			"Helvetica",
+			"drawBackground",
+			"render",
+			"exampleEditor",
+			"canvas",
+			"size",
+			"draw",
+			"alphabetic",
+			"draw",
+			"fillText",
+			"formatting",
+			"font",
+			"normal",
+			"script",
+			"drawBackground",
+			"getContext",
+			"ctx",
+			"drawBackground",
+			"canvas",
+			"clearRect",
+			"clear",
+			"drawBackground",
+			"doc",
+			"document",
+			"derive",
+			"drawBackground",
+			"node",
+			"return doc",
+			"dom",
+			"drawBackground",
+			"background",
+			"drawBackground",
+			".js",
+			" \".js\"",
+			" \"doc.js\"",
+			" doc.js",
+			"drawBackground",
+			"draw",
+			" doc",
+			"drawBackground",
+			"draw",
+			"prototype",
+			"draw",
+			"paint",
+			"smiley",
+			"    	\n",
+			"_showMe",
+			"setImage",
+			"_showMe",
+			"_selectAnswer",
+			"_imageUrl",
+			"inser",
+			"_addAction",
+			"goTo",
+			"shad",
+			"_zoomInImage",
+			"background",
+			"src",
+			":\"'+",
+			"_zoomOutImage",
+			"shareBox",
+			"pointer",
+			"_createComment",
+			"_postComment",
+			"js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"WIDTH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10445,
+								10445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/karoshi/git/examples/src/examples/inputs/PinchSync/example.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/karoshi/git/examples/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/Scrollview.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2058.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1428,
+								1428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "FamousWall.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
